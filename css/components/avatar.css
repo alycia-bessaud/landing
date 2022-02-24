@@ -1,0 +1,9 @@
+.avatar {
+	max-width: 30%;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 4px;
+
+}
